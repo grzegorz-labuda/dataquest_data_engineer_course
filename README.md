@@ -3,4 +3,5 @@ This repository contains projects completed as part of the Data Engineer course 
 Projects:
 
 1. Profitable App Profiles for the App Store and Google Play Markets - DONE
-2. ...
+2. Exploring Hacker News' Posts - DONE
+3. ...
