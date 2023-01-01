@@ -4,4 +4,5 @@ Projects:
 
 1. Profitable App Profiles for the App Store and Google Play Markets - DONE
 2. Exploring Hacker News' Posts - DONE
-3. ...
+3. Building Fast Queries on a CSV - DONE
+4. ...
